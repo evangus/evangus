@@ -1,5 +1,5 @@
 ### Hi, I'm Evan 🌚
-I work in People & Culture in tech startups.
+I work in People & Culture in tech startups. <br>
 Here I mostly practice every [Advent of Code](adventofcode.com) in writing a bit cleaner and more efficient scripts.
 
 <!--
