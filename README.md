@@ -1,6 +1,6 @@
 ### Hi, I'm Evan 🌚
 I work in People & Culture in tech startups. <br>
-Here I mostly practice every [Advent of Code](adventofcode.com) in writing a bit cleaner and more efficient scripts.
+Here I mostly practice every [Advent of Code](https://adventofcode.com) in writing a bit cleaner and more efficient scripts.
 
 <!--
 **evangus/evangus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
